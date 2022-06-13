@@ -7,6 +7,7 @@
 //
 
 #import "ZXViewController.h"
+#import "ZXLog.h"
 
 @interface ZXViewController ()
 
